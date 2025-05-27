@@ -1,0 +1,60 @@
+﻿@model Contact
+
+@{
+    ViewData["Title"] = "İletişim";
+}
+
+<h1>İletişim</h1>
+
+
+<div class="row">
+    <div class="col-md-4">
+        <h4>Bize Ulaşın</h4>
+        <hr />
+        <form asp-action="ContactUs">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Name" class="control-label"></label>
+                <input asp-for="Name" class="form-control" />
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Surname" class="control-label"></label>
+                <input asp-for="Surname" class="form-control" />
+                <span asp-validation-for="Surname" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Email" class="control-label"></label>
+                <input asp-for="Email" class="form-control" />
+                <span asp-validation-for="Email" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Message" class="control-label"></label>
+                <input asp-for="Message" class="form-control" />
+                <span asp-validation-for="Message" class="text-danger"></span>
+            </div>
+            <div class="form-group mt-3">
+                <input type="submit" value="Gönder" class="btn btn-primary" />
+            </div>
+        </form>
+        @Html.Raw(TempData["Mesaj"])
+    </div>
+    <div class="col-md-4">
+        <h4>Adres Bilgilerimiz</h4>
+        <hr />
+        <p>
+            Lorem ipsum dolor sit amet
+            <br />
+            Beşyol / İst.
+            <br />
+            info@siparisyonetim.com
+            <br />
+            0850 555 55 55
+        </p>
+    </div>
+    <div class="col-md-4">
+        <h4>Harita</h4>
+        <hr />
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3011.58731736784!2d28.797161099999997!3d40.99051659999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14caa396db59606d%3A0x6594147beb14e9b4!2zxLBzdGFuYnVsIEF5ZMSxbiDDnG5pdmVyc2l0ZXNp!5e0!3m2!1str!2str!4v1748091482729!5m2!1str!2str" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+    </div>
+</div>

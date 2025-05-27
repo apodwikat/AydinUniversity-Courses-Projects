@@ -1,0 +1,553 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Haydar\\Desktop\\proje\\main\\SiparisYonetimiNetCore-master\\SiparisYonetimiNetCore.WebUI\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\SiparisYonetimiNetCore.WebUI.bundle.scp.css",
+      "PackagePath": "staticwebassets\\SiparisYonetimiNetCore.WebUI.zbjhehgsmp.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Haydar\\Desktop\\proje\\main\\SiparisYonetimiNetCore-master\\SiparisYonetimiNetCore.WebUI\\wwwroot\\Img\\Abra-A5-V19-i7-islemci_large.jpg",
+      "PackagePath": "staticwebassets\\Img\\Abra-A5-V19-i7-islemci_large.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Haydar\\Desktop\\proje\\main\\SiparisYonetimiNetCore-master\\SiparisYonetimiNetCore.WebUI\\wwwroot\\Img\\Acer-logo.svg",
+      "PackagePath": "staticwebassets\\Img\\Acer-logo.svg"
+    },
+    {
+      "Id": "C:\\Users\\Haydar\\Desktop\\proje\\main\\SiparisYonetimiNetCore-master\\SiparisYonetimiNetCore.WebUI\\wwwroot\\Img\\CSS3_logo.png",
+      "PackagePath": "staticwebassets\\Img\\CSS3_logo.png"
+    },
+    {
+      "Id": "C:\\Users\\Haydar\\Desktop\\proje\\main\\SiparisYonetimiNetCore-master\\SiparisYonetimiNetCore.WebUI\\wwwroot\\Img\\Samsung_Logo.png",
+      "PackagePath": "staticwebassets\\Img\\Samsung_Logo.png"
+    },
+    {
+      "Id": "C:\\Users\\Haydar\\Desktop\\proje\\main\\SiparisYonetimiNetCore-master\\SiparisYonetimiNetCore.WebUI\\wwwroot\\Img\\apple.jpg",
+      "PackagePath": "staticwebassets\\Img\\apple.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Haydar\\Desktop\\proje\\main\\SiparisYonetimiNetCore-master\\SiparisYonetimiNetCore.WebUI\\wwwroot\\Img\\asus-laptop.jpg",
+      "PackagePath": "staticwebassets\\Img\\asus-laptop.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Haydar\\Desktop\\proje\\main\\SiparisYonetimiNetCore-master\\SiparisYonetimiNetCore.WebUI\\wwwroot\\Img\\asus.svg",
+      "PackagePath": "staticwebassets\\Img\\asus.svg"
+    },
+    {
+      "Id": "C:\\Users\\Haydar\\Desktop\\proje\\main\\SiparisYonetimiNetCore-master\\SiparisYonetimiNetCore.WebUI\\wwwroot\\Img\\c-sharp.png",
+      "PackagePath": "staticwebassets\\Img\\c-sharp.png"
+    },
+    {
+      "Id": "C:\\Users\\Haydar\\Desktop\\proje\\main\\SiparisYonetimiNetCore-master\\SiparisYonetimiNetCore.WebUI\\wwwroot\\Img\\channels4_profile.jpg",
+      "PackagePath": "staticwebassets\\Img\\channels4_profile.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Haydar\\Desktop\\proje\\main\\SiparisYonetimiNetCore-master\\SiparisYonetimiNetCore.WebUI\\wwwroot\\Img\\dark.jpg",
+      "PackagePath": "staticwebassets\\Img\\dark.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Haydar\\Desktop\\proje\\main\\SiparisYonetimiNetCore-master\\SiparisYonetimiNetCore.WebUI\\wwwroot\\Img\\klavye.jpg",
+      "PackagePath": "staticwebassets\\Img\\klavye.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Haydar\\Desktop\\proje\\main\\SiparisYonetimiNetCore-master\\SiparisYonetimiNetCore.WebUI\\wwwroot\\Img\\lenovo-logo-red.webp",
+      "PackagePath": "staticwebassets\\Img\\lenovo-logo-red.webp"
+    },
+    {
+      "Id": "C:\\Users\\Haydar\\Desktop\\proje\\main\\SiparisYonetimiNetCore-master\\SiparisYonetimiNetCore.WebUI\\wwwroot\\Img\\monster.jpg",
+      "PackagePath": "staticwebassets\\Img\\monster.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Haydar\\Desktop\\proje\\main\\SiparisYonetimiNetCore-master\\SiparisYonetimiNetCore.WebUI\\wwwroot\\Img\\resim_2025-05-11_195338524.png",
+      "PackagePath": "staticwebassets\\Img\\resim_2025-05-11_195338524.png"
+    },
+    {
+      "Id": "C:\\Users\\Haydar\\Desktop\\proje\\main\\SiparisYonetimiNetCore-master\\SiparisYonetimiNetCore.WebUI\\wwwroot\\Img\\resim_2025-05-11_195850204.png",
+      "PackagePath": "staticwebassets\\Img\\resim_2025-05-11_195850204.png"
+    },
+    {
+      "Id": "C:\\Users\\Haydar\\Desktop\\proje\\main\\SiparisYonetimiNetCore-master\\SiparisYonetimiNetCore.WebUI\\wwwroot\\Img\\resim_2025-05-11_195856141.png",
+      "PackagePath": "staticwebassets\\Img\\resim_2025-05-11_195856141.png"
+    },
+    {
+      "Id": "C:\\Users\\Haydar\\Desktop\\proje\\main\\SiparisYonetimiNetCore-master\\SiparisYonetimiNetCore.WebUI\\wwwroot\\Img\\resim_2025-05-11_195910871.png",
+      "PackagePath": "staticwebassets\\Img\\resim_2025-05-11_195910871.png"
+    },
+    {
+      "Id": "C:\\Users\\Haydar\\Desktop\\proje\\main\\SiparisYonetimiNetCore-master\\SiparisYonetimiNetCore.WebUI\\wwwroot\\Img\\resim_2025-05-11_200040950.png",
+      "PackagePath": "staticwebassets\\Img\\resim_2025-05-11_200040950.png"
+    },
+    {
+      "Id": "C:\\Users\\Haydar\\Desktop\\proje\\main\\SiparisYonetimiNetCore-master\\SiparisYonetimiNetCore.WebUI\\wwwroot\\Img\\resim_2025-05-11_200139158.png",
+      "PackagePath": "staticwebassets\\Img\\resim_2025-05-11_200139158.png"
+    },
+    {
+      "Id": "C:\\Users\\Haydar\\Desktop\\proje\\main\\SiparisYonetimiNetCore-master\\SiparisYonetimiNetCore.WebUI\\wwwroot\\Img\\resim_2025-05-11_200520988.png",
+      "PackagePath": "staticwebassets\\Img\\resim_2025-05-11_200520988.png"
+    },
+    {
+      "Id": "C:\\Users\\Haydar\\Desktop\\proje\\main\\SiparisYonetimiNetCore-master\\SiparisYonetimiNetCore.WebUI\\wwwroot\\Img\\resim_2025-05-11_200611688.png",
+      "PackagePath": "staticwebassets\\Img\\resim_2025-05-11_200611688.png"
+    },
+    {
+      "Id": "C:\\Users\\Haydar\\Desktop\\proje\\main\\SiparisYonetimiNetCore-master\\SiparisYonetimiNetCore.WebUI\\wwwroot\\Img\\resim_2025-05-11_200720534.png",
+      "PackagePath": "staticwebassets\\Img\\resim_2025-05-11_200720534.png"
+    },
+    {
+      "Id": "C:\\Users\\Haydar\\Desktop\\proje\\main\\SiparisYonetimiNetCore-master\\SiparisYonetimiNetCore.WebUI\\wwwroot\\Img\\resim_2025-05-12_003105097.png",
+      "PackagePath": "staticwebassets\\Img\\resim_2025-05-12_003105097.png"
+    },
+    {
+      "Id": "C:\\Users\\Haydar\\Desktop\\proje\\main\\SiparisYonetimiNetCore-master\\SiparisYonetimiNetCore.WebUI\\wwwroot\\Img\\resim_2025-05-12_003448593.png",
+      "PackagePath": "staticwebassets\\Img\\resim_2025-05-12_003448593.png"
+    },
+    {
+      "Id": "C:\\Users\\Haydar\\Desktop\\proje\\main\\SiparisYonetimiNetCore-master\\SiparisYonetimiNetCore.WebUI\\wwwroot\\Img\\resim_2025-05-12_003746059.png",
+      "PackagePath": "staticwebassets\\Img\\resim_2025-05-12_003746059.png"
+    },
+    {
+      "Id": "C:\\Users\\Haydar\\Desktop\\proje\\main\\SiparisYonetimiNetCore-master\\SiparisYonetimiNetCore.WebUI\\wwwroot\\Img\\resim_2025-05-12_003913854.png",
+      "PackagePath": "staticwebassets\\Img\\resim_2025-05-12_003913854.png"
+    },
+    {
+      "Id": "C:\\Users\\Haydar\\Desktop\\proje\\main\\SiparisYonetimiNetCore-master\\SiparisYonetimiNetCore.WebUI\\wwwroot\\Img\\resim_2025-05-12_004120582.png",
+      "PackagePath": "staticwebassets\\Img\\resim_2025-05-12_004120582.png"
+    },
+    {
+      "Id": "C:\\Users\\Haydar\\Desktop\\proje\\main\\SiparisYonetimiNetCore-master\\SiparisYonetimiNetCore.WebUI\\wwwroot\\Img\\resim_2025-05-15_160532704.png",
+      "PackagePath": "staticwebassets\\Img\\resim_2025-05-15_160532704.png"
+    },
+    {
+      "Id": "C:\\Users\\Haydar\\Desktop\\proje\\main\\SiparisYonetimiNetCore-master\\SiparisYonetimiNetCore.WebUI\\wwwroot\\Img\\resim_2025-05-15_160749537.png",
+      "PackagePath": "staticwebassets\\Img\\resim_2025-05-15_160749537.png"
+    },
+    {
+      "Id": "C:\\Users\\Haydar\\Desktop\\proje\\main\\SiparisYonetimiNetCore-master\\SiparisYonetimiNetCore.WebUI\\wwwroot\\Img\\resim_2025-05-15_161117554.png",
+      "PackagePath": "staticwebassets\\Img\\resim_2025-05-15_161117554.png"
+    },
+    {
+      "Id": "C:\\Users\\Haydar\\Desktop\\proje\\main\\SiparisYonetimiNetCore-master\\SiparisYonetimiNetCore.WebUI\\wwwroot\\Img\\resim_2025-05-15_161309464.png",
+      "PackagePath": "staticwebassets\\Img\\resim_2025-05-15_161309464.png"
+    },
+    {
+      "Id": "C:\\Users\\Haydar\\Desktop\\proje\\main\\SiparisYonetimiNetCore-master\\SiparisYonetimiNetCore.WebUI\\wwwroot\\Img\\resim_2025-05-15_161454242.png",
+      "PackagePath": "staticwebassets\\Img\\resim_2025-05-15_161454242.png"
+    },
+    {
+      "Id": "C:\\Users\\Haydar\\Desktop\\proje\\main\\SiparisYonetimiNetCore-master\\SiparisYonetimiNetCore.WebUI\\wwwroot\\Img\\resim_2025-05-15_161703005.png",
+      "PackagePath": "staticwebassets\\Img\\resim_2025-05-15_161703005.png"
+    },
+    {
+      "Id": "C:\\Users\\Haydar\\Desktop\\proje\\main\\SiparisYonetimiNetCore-master\\SiparisYonetimiNetCore.WebUI\\wwwroot\\Img\\resim_2025-05-15_161900301.png",
+      "PackagePath": "staticwebassets\\Img\\resim_2025-05-15_161900301.png"
+    },
+    {
+      "Id": "C:\\Users\\Haydar\\Desktop\\proje\\main\\SiparisYonetimiNetCore-master\\SiparisYonetimiNetCore.WebUI\\wwwroot\\Img\\resim_2025-05-15_162112863.png",
+      "PackagePath": "staticwebassets\\Img\\resim_2025-05-15_162112863.png"
+    },
+    {
+      "Id": "C:\\Users\\Haydar\\Desktop\\proje\\main\\SiparisYonetimiNetCore-master\\SiparisYonetimiNetCore.WebUI\\wwwroot\\Img\\resim_2025-05-15_162312384.png",
+      "PackagePath": "staticwebassets\\Img\\resim_2025-05-15_162312384.png"
+    },
+    {
+      "Id": "C:\\Users\\Haydar\\Desktop\\proje\\main\\SiparisYonetimiNetCore-master\\SiparisYonetimiNetCore.WebUI\\wwwroot\\Img\\resim_2025-05-15_162923556.png",
+      "PackagePath": "staticwebassets\\Img\\resim_2025-05-15_162923556.png"
+    },
+    {
+      "Id": "C:\\Users\\Haydar\\Desktop\\proje\\main\\SiparisYonetimiNetCore-master\\SiparisYonetimiNetCore.WebUI\\wwwroot\\Img\\resim_2025-05-15_163018244.png",
+      "PackagePath": "staticwebassets\\Img\\resim_2025-05-15_163018244.png"
+    },
+    {
+      "Id": "C:\\Users\\Haydar\\Desktop\\proje\\main\\SiparisYonetimiNetCore-master\\SiparisYonetimiNetCore.WebUI\\wwwroot\\Img\\resim_2025-05-15_163116065.png",
+      "PackagePath": "staticwebassets\\Img\\resim_2025-05-15_163116065.png"
+    },
+    {
+      "Id": "C:\\Users\\Haydar\\Desktop\\proje\\main\\SiparisYonetimiNetCore-master\\SiparisYonetimiNetCore.WebUI\\wwwroot\\Img\\resim_2025-05-15_165011136.png",
+      "PackagePath": "staticwebassets\\Img\\resim_2025-05-15_165011136.png"
+    },
+    {
+      "Id": "C:\\Users\\Haydar\\Desktop\\proje\\main\\SiparisYonetimiNetCore-master\\SiparisYonetimiNetCore.WebUI\\wwwroot\\Img\\resim_2025-05-15_165148858.png",
+      "PackagePath": "staticwebassets\\Img\\resim_2025-05-15_165148858.png"
+    },
+    {
+      "Id": "C:\\Users\\Haydar\\Desktop\\proje\\main\\SiparisYonetimiNetCore-master\\SiparisYonetimiNetCore.WebUI\\wwwroot\\Img\\resim_2025-05-15_165226854.png",
+      "PackagePath": "staticwebassets\\Img\\resim_2025-05-15_165226854.png"
+    },
+    {
+      "Id": "C:\\Users\\Haydar\\Desktop\\proje\\main\\SiparisYonetimiNetCore-master\\SiparisYonetimiNetCore.WebUI\\wwwroot\\Img\\resim_2025-05-15_165332641.png",
+      "PackagePath": "staticwebassets\\Img\\resim_2025-05-15_165332641.png"
+    },
+    {
+      "Id": "C:\\Users\\Haydar\\Desktop\\proje\\main\\SiparisYonetimiNetCore-master\\SiparisYonetimiNetCore.WebUI\\wwwroot\\Img\\resim_2025-05-15_165608440.png",
+      "PackagePath": "staticwebassets\\Img\\resim_2025-05-15_165608440.png"
+    },
+    {
+      "Id": "C:\\Users\\Haydar\\Desktop\\proje\\main\\SiparisYonetimiNetCore-master\\SiparisYonetimiNetCore.WebUI\\wwwroot\\Img\\resim_2025-05-24_120646360.png",
+      "PackagePath": "staticwebassets\\Img\\resim_2025-05-24_120646360.png"
+    },
+    {
+      "Id": "C:\\Users\\Haydar\\Desktop\\proje\\main\\SiparisYonetimiNetCore-master\\SiparisYonetimiNetCore.WebUI\\wwwroot\\Img\\telefon-1.jpg",
+      "PackagePath": "staticwebassets\\Img\\telefon-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Haydar\\Desktop\\proje\\main\\SiparisYonetimiNetCore-master\\SiparisYonetimiNetCore.WebUI\\wwwroot\\Img\\telefon-2.jpg",
+      "PackagePath": "staticwebassets\\Img\\telefon-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Haydar\\Desktop\\proje\\main\\SiparisYonetimiNetCore-master\\SiparisYonetimiNetCore.WebUI\\wwwroot\\Img\\telefon-3.jpg",
+      "PackagePath": "staticwebassets\\Img\\telefon-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Haydar\\Desktop\\proje\\main\\SiparisYonetimiNetCore-master\\SiparisYonetimiNetCore.WebUI\\wwwroot\\Img\\transport-1.jpg",
+      "PackagePath": "staticwebassets\\Img\\transport-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Haydar\\Desktop\\proje\\main\\SiparisYonetimiNetCore-master\\SiparisYonetimiNetCore.WebUI\\wwwroot\\Img\\transport-2.jpg",
+      "PackagePath": "staticwebassets\\Img\\transport-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Haydar\\Desktop\\proje\\main\\SiparisYonetimiNetCore-master\\SiparisYonetimiNetCore.WebUI\\wwwroot\\Img\\transport-3.jpg",
+      "PackagePath": "staticwebassets\\Img\\transport-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Haydar\\Desktop\\proje\\main\\SiparisYonetimiNetCore-master\\SiparisYonetimiNetCore.WebUI\\wwwroot\\Img\\tv.png",
+      "PackagePath": "staticwebassets\\Img\\tv.png"
+    },
+    {
+      "Id": "C:\\Users\\Haydar\\Desktop\\proje\\main\\SiparisYonetimiNetCore-master\\SiparisYonetimiNetCore.WebUI\\wwwroot\\admintema\\401.html",
+      "PackagePath": "staticwebassets\\admintema\\401.html"
+    },
+    {
+      "Id": "C:\\Users\\Haydar\\Desktop\\proje\\main\\SiparisYonetimiNetCore-master\\SiparisYonetimiNetCore.WebUI\\wwwroot\\admintema\\404.html",
+      "PackagePath": "staticwebassets\\admintema\\404.html"
+    },
+    {
+      "Id": "C:\\Users\\Haydar\\Desktop\\proje\\main\\SiparisYonetimiNetCore-master\\SiparisYonetimiNetCore.WebUI\\wwwroot\\admintema\\500.html",
+      "PackagePath": "staticwebassets\\admintema\\500.html"
+    },
+    {
+      "Id": "C:\\Users\\Haydar\\Desktop\\proje\\main\\SiparisYonetimiNetCore-master\\SiparisYonetimiNetCore.WebUI\\wwwroot\\admintema\\assets\\demo\\chart-area-demo.js",
+      "PackagePath": "staticwebassets\\admintema\\assets\\demo\\chart-area-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\Haydar\\Desktop\\proje\\main\\SiparisYonetimiNetCore-master\\SiparisYonetimiNetCore.WebUI\\wwwroot\\admintema\\assets\\demo\\chart-bar-demo.js",
+      "PackagePath": "staticwebassets\\admintema\\assets\\demo\\chart-bar-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\Haydar\\Desktop\\proje\\main\\SiparisYonetimiNetCore-master\\SiparisYonetimiNetCore.WebUI\\wwwroot\\admintema\\assets\\demo\\chart-pie-demo.js",
+      "PackagePath": "staticwebassets\\admintema\\assets\\demo\\chart-pie-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\Haydar\\Desktop\\proje\\main\\SiparisYonetimiNetCore-master\\SiparisYonetimiNetCore.WebUI\\wwwroot\\admintema\\assets\\demo\\datatables-demo.js",
+      "PackagePath": "staticwebassets\\admintema\\assets\\demo\\datatables-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\Haydar\\Desktop\\proje\\main\\SiparisYonetimiNetCore-master\\SiparisYonetimiNetCore.WebUI\\wwwroot\\admintema\\assets\\img\\error-404-monochrome.svg",
+      "PackagePath": "staticwebassets\\admintema\\assets\\img\\error-404-monochrome.svg"
+    },
+    {
+      "Id": "C:\\Users\\Haydar\\Desktop\\proje\\main\\SiparisYonetimiNetCore-master\\SiparisYonetimiNetCore.WebUI\\wwwroot\\admintema\\charts.html",
+      "PackagePath": "staticwebassets\\admintema\\charts.html"
+    },
+    {
+      "Id": "C:\\Users\\Haydar\\Desktop\\proje\\main\\SiparisYonetimiNetCore-master\\SiparisYonetimiNetCore.WebUI\\wwwroot\\admintema\\css\\styles.css",
+      "PackagePath": "staticwebassets\\admintema\\css\\styles.css"
+    },
+    {
+      "Id": "C:\\Users\\Haydar\\Desktop\\proje\\main\\SiparisYonetimiNetCore-master\\SiparisYonetimiNetCore.WebUI\\wwwroot\\admintema\\index.html",
+      "PackagePath": "staticwebassets\\admintema\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Haydar\\Desktop\\proje\\main\\SiparisYonetimiNetCore-master\\SiparisYonetimiNetCore.WebUI\\wwwroot\\admintema\\js\\datatables-simple-demo.js",
+      "PackagePath": "staticwebassets\\admintema\\js\\datatables-simple-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\Haydar\\Desktop\\proje\\main\\SiparisYonetimiNetCore-master\\SiparisYonetimiNetCore.WebUI\\wwwroot\\admintema\\js\\scripts.js",
+      "PackagePath": "staticwebassets\\admintema\\js\\scripts.js"
+    },
+    {
+      "Id": "C:\\Users\\Haydar\\Desktop\\proje\\main\\SiparisYonetimiNetCore-master\\SiparisYonetimiNetCore.WebUI\\wwwroot\\admintema\\layout-sidenav-light.html",
+      "PackagePath": "staticwebassets\\admintema\\layout-sidenav-light.html"
+    },
+    {
+      "Id": "C:\\Users\\Haydar\\Desktop\\proje\\main\\SiparisYonetimiNetCore-master\\SiparisYonetimiNetCore.WebUI\\wwwroot\\admintema\\layout-static.html",
+      "PackagePath": "staticwebassets\\admintema\\layout-static.html"
+    },
+    {
+      "Id": "C:\\Users\\Haydar\\Desktop\\proje\\main\\SiparisYonetimiNetCore-master\\SiparisYonetimiNetCore.WebUI\\wwwroot\\admintema\\login.html",
+      "PackagePath": "staticwebassets\\admintema\\login.html"
+    },
+    {
+      "Id": "C:\\Users\\Haydar\\Desktop\\proje\\main\\SiparisYonetimiNetCore-master\\SiparisYonetimiNetCore.WebUI\\wwwroot\\admintema\\password.html",
+      "PackagePath": "staticwebassets\\admintema\\password.html"
+    },
+    {
+      "Id": "C:\\Users\\Haydar\\Desktop\\proje\\main\\SiparisYonetimiNetCore-master\\SiparisYonetimiNetCore.WebUI\\wwwroot\\admintema\\register.html",
+      "PackagePath": "staticwebassets\\admintema\\register.html"
+    },
+    {
+      "Id": "C:\\Users\\Haydar\\Desktop\\proje\\main\\SiparisYonetimiNetCore-master\\SiparisYonetimiNetCore.WebUI\\wwwroot\\admintema\\tables.html",
+      "PackagePath": "staticwebassets\\admintema\\tables.html"
+    },
+    {
+      "Id": "C:\\Users\\Haydar\\Desktop\\proje\\main\\SiparisYonetimiNetCore-master\\SiparisYonetimiNetCore.WebUI\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Haydar\\Desktop\\proje\\main\\SiparisYonetimiNetCore-master\\SiparisYonetimiNetCore.WebUI\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Haydar\\Desktop\\proje\\main\\SiparisYonetimiNetCore-master\\SiparisYonetimiNetCore.WebUI\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Haydar\\Desktop\\proje\\main\\SiparisYonetimiNetCore-master\\SiparisYonetimiNetCore.WebUI\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Haydar\\Desktop\\proje\\main\\SiparisYonetimiNetCore-master\\SiparisYonetimiNetCore.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Haydar\\Desktop\\proje\\main\\SiparisYonetimiNetCore-master\\SiparisYonetimiNetCore.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Haydar\\Desktop\\proje\\main\\SiparisYonetimiNetCore-master\\SiparisYonetimiNetCore.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Haydar\\Desktop\\proje\\main\\SiparisYonetimiNetCore-master\\SiparisYonetimiNetCore.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Haydar\\Desktop\\proje\\main\\SiparisYonetimiNetCore-master\\SiparisYonetimiNetCore.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Haydar\\Desktop\\proje\\main\\SiparisYonetimiNetCore-master\\SiparisYonetimiNetCore.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Haydar\\Desktop\\proje\\main\\SiparisYonetimiNetCore-master\\SiparisYonetimiNetCore.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Haydar\\Desktop\\proje\\main\\SiparisYonetimiNetCore-master\\SiparisYonetimiNetCore.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Haydar\\Desktop\\proje\\main\\SiparisYonetimiNetCore-master\\SiparisYonetimiNetCore.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Haydar\\Desktop\\proje\\main\\SiparisYonetimiNetCore-master\\SiparisYonetimiNetCore.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Haydar\\Desktop\\proje\\main\\SiparisYonetimiNetCore-master\\SiparisYonetimiNetCore.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Haydar\\Desktop\\proje\\main\\SiparisYonetimiNetCore-master\\SiparisYonetimiNetCore.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Haydar\\Desktop\\proje\\main\\SiparisYonetimiNetCore-master\\SiparisYonetimiNetCore.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Haydar\\Desktop\\proje\\main\\SiparisYonetimiNetCore-master\\SiparisYonetimiNetCore.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Haydar\\Desktop\\proje\\main\\SiparisYonetimiNetCore-master\\SiparisYonetimiNetCore.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Haydar\\Desktop\\proje\\main\\SiparisYonetimiNetCore-master\\SiparisYonetimiNetCore.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Haydar\\Desktop\\proje\\main\\SiparisYonetimiNetCore-master\\SiparisYonetimiNetCore.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Haydar\\Desktop\\proje\\main\\SiparisYonetimiNetCore-master\\SiparisYonetimiNetCore.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Haydar\\Desktop\\proje\\main\\SiparisYonetimiNetCore-master\\SiparisYonetimiNetCore.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Haydar\\Desktop\\proje\\main\\SiparisYonetimiNetCore-master\\SiparisYonetimiNetCore.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Haydar\\Desktop\\proje\\main\\SiparisYonetimiNetCore-master\\SiparisYonetimiNetCore.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Haydar\\Desktop\\proje\\main\\SiparisYonetimiNetCore-master\\SiparisYonetimiNetCore.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Haydar\\Desktop\\proje\\main\\SiparisYonetimiNetCore-master\\SiparisYonetimiNetCore.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Haydar\\Desktop\\proje\\main\\SiparisYonetimiNetCore-master\\SiparisYonetimiNetCore.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Haydar\\Desktop\\proje\\main\\SiparisYonetimiNetCore-master\\SiparisYonetimiNetCore.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Haydar\\Desktop\\proje\\main\\SiparisYonetimiNetCore-master\\SiparisYonetimiNetCore.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Haydar\\Desktop\\proje\\main\\SiparisYonetimiNetCore-master\\SiparisYonetimiNetCore.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Haydar\\Desktop\\proje\\main\\SiparisYonetimiNetCore-master\\SiparisYonetimiNetCore.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Haydar\\Desktop\\proje\\main\\SiparisYonetimiNetCore-master\\SiparisYonetimiNetCore.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Haydar\\Desktop\\proje\\main\\SiparisYonetimiNetCore-master\\SiparisYonetimiNetCore.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Haydar\\Desktop\\proje\\main\\SiparisYonetimiNetCore-master\\SiparisYonetimiNetCore.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Haydar\\Desktop\\proje\\main\\SiparisYonetimiNetCore-master\\SiparisYonetimiNetCore.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Haydar\\Desktop\\proje\\main\\SiparisYonetimiNetCore-master\\SiparisYonetimiNetCore.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Haydar\\Desktop\\proje\\main\\SiparisYonetimiNetCore-master\\SiparisYonetimiNetCore.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Haydar\\Desktop\\proje\\main\\SiparisYonetimiNetCore-master\\SiparisYonetimiNetCore.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Haydar\\Desktop\\proje\\main\\SiparisYonetimiNetCore-master\\SiparisYonetimiNetCore.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Haydar\\Desktop\\proje\\main\\SiparisYonetimiNetCore-master\\SiparisYonetimiNetCore.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Haydar\\Desktop\\proje\\main\\SiparisYonetimiNetCore-master\\SiparisYonetimiNetCore.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Haydar\\Desktop\\proje\\main\\SiparisYonetimiNetCore-master\\SiparisYonetimiNetCore.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Haydar\\Desktop\\proje\\main\\SiparisYonetimiNetCore-master\\SiparisYonetimiNetCore.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Haydar\\Desktop\\proje\\main\\SiparisYonetimiNetCore-master\\SiparisYonetimiNetCore.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Haydar\\Desktop\\proje\\main\\SiparisYonetimiNetCore-master\\SiparisYonetimiNetCore.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Haydar\\Desktop\\proje\\main\\SiparisYonetimiNetCore-master\\SiparisYonetimiNetCore.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Haydar\\Desktop\\proje\\main\\SiparisYonetimiNetCore-master\\SiparisYonetimiNetCore.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Haydar\\Desktop\\proje\\main\\SiparisYonetimiNetCore-master\\SiparisYonetimiNetCore.WebUI\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Haydar\\Desktop\\proje\\main\\SiparisYonetimiNetCore-master\\SiparisYonetimiNetCore.WebUI\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Haydar\\Desktop\\proje\\main\\SiparisYonetimiNetCore-master\\SiparisYonetimiNetCore.WebUI\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Haydar\\Desktop\\proje\\main\\SiparisYonetimiNetCore-master\\SiparisYonetimiNetCore.WebUI\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Haydar\\Desktop\\proje\\main\\SiparisYonetimiNetCore-master\\SiparisYonetimiNetCore.WebUI\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Haydar\\Desktop\\proje\\main\\SiparisYonetimiNetCore-master\\SiparisYonetimiNetCore.WebUI\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Haydar\\Desktop\\proje\\main\\SiparisYonetimiNetCore-master\\SiparisYonetimiNetCore.WebUI\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Haydar\\Desktop\\proje\\main\\SiparisYonetimiNetCore-master\\SiparisYonetimiNetCore.WebUI\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Haydar\\Desktop\\proje\\main\\SiparisYonetimiNetCore-master\\SiparisYonetimiNetCore.WebUI\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Haydar\\Desktop\\proje\\main\\SiparisYonetimiNetCore-master\\SiparisYonetimiNetCore.WebUI\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Haydar\\Desktop\\proje\\main\\SiparisYonetimiNetCore-master\\SiparisYonetimiNetCore.WebUI\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Haydar\\Desktop\\proje\\main\\SiparisYonetimiNetCore-master\\SiparisYonetimiNetCore.WebUI\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.SiparisYonetimiNetCore.WebUI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.SiparisYonetimiNetCore.WebUI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.SiparisYonetimiNetCore.WebUI.props",
+      "PackagePath": "build\\SiparisYonetimiNetCore.WebUI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.SiparisYonetimiNetCore.WebUI.props",
+      "PackagePath": "buildMultiTargeting\\SiparisYonetimiNetCore.WebUI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.SiparisYonetimiNetCore.WebUI.props",
+      "PackagePath": "buildTransitive\\SiparisYonetimiNetCore.WebUI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
