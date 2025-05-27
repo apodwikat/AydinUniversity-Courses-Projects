@@ -1,2 +1,2 @@
-# Databases-Java
-Unitrack (MySQL + JAVA Swing)
+# Istanbul Aydin University
+Computer Engineering Projects
